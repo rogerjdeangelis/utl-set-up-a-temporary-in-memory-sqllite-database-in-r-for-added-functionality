@@ -1,0 +1,7 @@
+{
+  "bundle": "t002_inmemory_stats_query",
+  "source_file": "utl-set-up-a-temporary-in-memory-sqllite-database-in-r-for-added-functionality.sas",
+  "source_blob_sha": "cb248a9aee20225ecdd45d1c916fd2bff7d3a658",
+  "source_commit": "385ae06ccfecae5cf281e15f091435443476e46e",
+  "notes": "The statistical query the repo demonstrates via in-memory SQLite in R: avg/stdev/variance/median of AGE for age<13. Rendered natively in PROC SQL against the HAVE table the repo builds from sashelp.class; aggregates, aliases (Avg/Stdev/Var/Median), and the age<13 filter match the original SQL. Runs clean on Jenner v1.5.39; WANT has 1 obs, 4 vars."
+}

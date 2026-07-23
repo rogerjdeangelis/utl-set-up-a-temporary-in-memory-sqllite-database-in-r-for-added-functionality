@@ -1,0 +1,20 @@
+{
+  "_captured_at": "2026-07-23T14:12:00Z",
+  "_captured_run_id": "r_6516aa19abcb4399984c3a8a297265ac",
+  "status": "ok",
+  "exit_code": 0,
+  "log_contains": [
+    "NOTE: Option VALIDVARNAME changed to UPCASE.",
+    "NOTE: Read 19 rows from sashelp.class.",
+    "NOTE: Table want created.",
+    "NOTE: PROC PRINT completed: 1 observations printed, 4 variables"
+  ],
+  "log_does_not_contain": [
+    "ERROR:",
+    "[JENNER-ERROR"
+  ],
+  "diagnostics": {
+    "parse_warnings": [],
+    "runtime_warnings": []
+  }
+}

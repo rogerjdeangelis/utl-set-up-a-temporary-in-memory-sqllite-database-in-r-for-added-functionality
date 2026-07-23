@@ -1,0 +1,13 @@
+NOTE: Option OBS changed to 100.
+NOTE: Option VALIDVARNAME changed to UPCASE.
+NOTE: DATA have
+
+
+NOTE: Read 19 rows from sashelp.class.
+NOTE: Wrote have (19 rows, 2 columns).
+NOTE: DATA elapsed:
+  wall  0.00 seconds
+  cpu   0.00 seconds
+NOTE: PROC PRINT data=have
+
+NOTE: PROC PRINT completed: 19 observations printed, 2 variables

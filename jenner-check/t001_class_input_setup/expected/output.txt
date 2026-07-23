@@ -1,0 +1,22 @@
+
+  Obs     NAME  AGE
+-----  -------  ---
+    1  Amir      13
+    2  Bethany   14
+    3  Carlos    12
+    4  Diana     11
+    5  Ethan     15
+    6  Fiona     13
+    7  George    14
+    8  Hannah    12
+    9  Ivan      11
+   10  Julia     15
+   11  Kevin     16
+   12  Lily      14
+   13  Marco     12
+   14  Nadia     13
+   15  Oscar     15
+   16  Priya     12
+   17  Quinn     13
+   18  Rosa      11
+   19  Samuel    14

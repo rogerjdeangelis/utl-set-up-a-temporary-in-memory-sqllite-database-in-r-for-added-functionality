@@ -1,0 +1,7 @@
+{
+  "bundle": "t001_class_input_setup",
+  "source_file": "utl-set-up-a-temporary-in-memory-sqllite-database-in-r-for-added-functionality.sas",
+  "source_blob_sha": "cb248a9aee20225ecdd45d1c916fd2bff7d3a658",
+  "source_commit": "385ae06ccfecae5cf281e15f091435443476e46e",
+  "notes": "The repo's INPUT setup step: builds HAVE from sashelp.class keeping NAME/AGE under VALIDVARNAME=UPCASE. Original writes to libname sd1 (d:/sd1); retargeted to WORK so the step is self-contained. DATA step, KEEP=, and options unchanged. Runs clean on Jenner v1.5.39: 19 rows read/written, PROC PRINT lists the data."
+}
